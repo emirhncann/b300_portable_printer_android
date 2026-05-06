@@ -1,0 +1,11 @@
+E:\linjianhui\C#版例程 demo\C#版例程 20210408\PrinterDemo(C#)\POSdllDemo\obj\x86\Release\PrinterDEMO.csprojResolveAssemblyReference.cache
+E:\linjianhui\C#版例程 demo\C#版例程 20210408\PrinterDemo(C#)\POSdllDemo\obj\x86\Release\POSdllDemo.Form1.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210408\PrinterDemo(C#)\POSdllDemo\obj\x86\Release\PrinterDEMO.Properties.Resources.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210408\PrinterDemo(C#)\POSdllDemo\obj\x86\Release\PrinterDEMO.csproj.GenerateResource.Cache
+E:\linjianhui\C#版例程 demo\C#版例程 20210408\PrinterDemo(C#)\POSdllDemo\obj\x86\Release\PrinterDEMO.UserControl_USB_Connect.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210408\PrinterDemo(C#)\POSdllDemo\obj\x86\Release\PrinterDEMO.UserControl_COM_Connect.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210408\PrinterDemo(C#)\POSdllDemo\bin\Release\PrinterDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20210408\PrinterDemo(C#)\POSdllDemo\bin\Release\PrinterDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20210408\PrinterDemo(C#)\POSdllDemo\bin\Release\libUsbContorl.dll
+E:\linjianhui\C#版例程 demo\C#版例程 20210408\PrinterDemo(C#)\POSdllDemo\obj\x86\Release\PrinterDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20210408\PrinterDemo(C#)\POSdllDemo\obj\x86\Release\PrinterDEMO.pdb

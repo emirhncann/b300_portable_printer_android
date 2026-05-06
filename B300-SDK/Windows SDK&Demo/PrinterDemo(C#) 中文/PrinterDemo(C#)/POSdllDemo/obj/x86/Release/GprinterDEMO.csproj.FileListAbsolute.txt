@@ -1,0 +1,55 @@
+E:\linjianhui\demo\C#版例程 20181108\GprinterDemo(C#)\POSdllDemo\bin\Release\GprinterDEMO.exe
+E:\linjianhui\demo\C#版例程 20181108\GprinterDemo(C#)\POSdllDemo\bin\Release\GprinterDEMO.pdb
+E:\linjianhui\demo\C#版例程 20181108\GprinterDemo(C#)\POSdllDemo\bin\Release\libUsbContorl.dll
+E:\linjianhui\demo\C#版例程 20181108\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.csprojResolveAssemblyReference.cache
+E:\linjianhui\demo\C#版例程 20181108\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\POSdllDemo.Form1.resources
+E:\linjianhui\demo\C#版例程 20181108\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.Properties.Resources.resources
+E:\linjianhui\demo\C#版例程 20181108\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.csproj.GenerateResource.Cache
+E:\linjianhui\demo\C#版例程 20181108\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.exe
+E:\linjianhui\demo\C#版例程 20181108\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20181108\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20181108\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 201811093\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 201811093\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 201811093\GprinterDemo(C#)\POSdllDemo\bin\Release\GprinterDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 201811093\GprinterDemo(C#)\POSdllDemo\bin\Release\GprinterDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 201811093\GprinterDemo(C#)\POSdllDemo\bin\Release\libUsbContorl.dll
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 201811093\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.csprojResolveAssemblyReference.cache
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 201811093\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\POSdllDemo.Form1.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 201811093\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.Properties.Resources.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 201811093\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.csproj.GenerateResource.Cache
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 20210322\GprinterDemo(C#)\POSdllDemo\bin\Release\libUsbContorl.dll
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 20210322\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.csprojResolveAssemblyReference.cache
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 20210322\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\POSdllDemo.Form1.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 20210322\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.csproj.GenerateResource.Cache
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 20210322\GprinterDemo(C#)\POSdllDemo\bin\Release\SmarnetDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 20210322\GprinterDemo(C#)\POSdllDemo\bin\Release\SmarnetDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 20210322\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.Properties.Resources.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 20210322\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 20210322\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 20210322\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.UserControl_COM_Connect.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20181109\C#版例程 20210322\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.UserControl_USB_Connect.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210323\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20210323\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20210323\GprinterDemo(C#)\POSdllDemo\bin\Release\SmarnetDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20210323\GprinterDemo(C#)\POSdllDemo\bin\Release\SmarnetDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20210323\GprinterDemo(C#)\POSdllDemo\bin\Release\libUsbContorl.dll
+E:\linjianhui\C#版例程 demo\C#版例程 20210323\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.csprojResolveAssemblyReference.cache
+E:\linjianhui\C#版例程 demo\C#版例程 20210323\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\POSdllDemo.Form1.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210323\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.Properties.Resources.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210323\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.UserControl_COM_Connect.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210323\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.UserControl_USB_Connect.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210323\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.csproj.GenerateResource.Cache
+E:\linjianhui\C#版例程 demo\C#版例程 20210324\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20210324\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20210324\GprinterDemo(C#)\POSdllDemo\bin\Release\SmarnetDEMO.exe
+E:\linjianhui\C#版例程 demo\C#版例程 20210324\GprinterDemo(C#)\POSdllDemo\bin\Release\SmarnetDEMO.pdb
+E:\linjianhui\C#版例程 demo\C#版例程 20210324\GprinterDemo(C#)\POSdllDemo\bin\Release\libUsbContorl.dll
+E:\linjianhui\C#版例程 demo\C#版例程 20210324\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.csprojResolveAssemblyReference.cache
+E:\linjianhui\C#版例程 demo\C#版例程 20210324\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\POSdllDemo.Form1.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210324\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.Properties.Resources.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210324\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.UserControl_COM_Connect.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210324\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\SmarnetDEMO.UserControl_USB_Connect.resources
+E:\linjianhui\C#版例程 demo\C#版例程 20210324\GprinterDemo(C#)\POSdllDemo\obj\x86\Release\GprinterDEMO.csproj.GenerateResource.Cache

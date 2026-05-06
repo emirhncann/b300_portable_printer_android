@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew assembleDebug)",
+      "Bash(\"C:/Program Files/Android/Android Studio/jbr/bin/java\" -version)",
+      "Bash(./gradlew --stacktrace assembleDebug)",
+      "Bash(copy \"C:\\\\Users\\\\PC\\\\Desktop\\\\portable_thermal_printer_app\\\\B300PrintService\\\\app\\\\build\\\\outputs\\\\apk\\\\debug\\\\app-debug.apk\" \"C:\\\\Users\\\\PC\\\\Desktop\\\\B300PrintService-v1.0.0.apk\")",
+      "Bash(adb devices *)",
+      "Bash(\"C:/Users/PC/AppData/Local/Android/Sdk/platform-tools/adb.exe\" devices *)",
+      "Bash(\"C:/Users/PC/AppData/Local/Android/Sdk/platform-tools/adb.exe\" install *)",
+      "Bash(\"C:/Users/PC/AppData/Local/Android/Sdk/platform-tools/adb.exe\" shell *)"
+    ]
+  }
+}

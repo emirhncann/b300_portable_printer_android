@@ -1,0 +1,2 @@
+rootProject.name = "Tsc Demo(Label)"
+include ':app'
